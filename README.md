@@ -48,5 +48,6 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 [Introduction to Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1631-java-basico/diploma/detalle/ "Introduction to Java SE Course")
 
 <div align="center">
-      <img src="https://github.com/EdCenten0/Images/blob/master/image.png" title="Platzi" **alt="JavaSE" width="100" height="100"/>
+      <img src="https://github.com/EdCenten0/Images/blob/master/image.png" title="Platzi" **alt="JavaSE" width="500" height="500"/>
 </div>
+
