@@ -30,4 +30,4 @@ Social media :
 </div>
 
 <h2>Some stats:</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EdCenten0)](https://git.io/streak-stats)
