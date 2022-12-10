@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm 👋 Carlos Centeno</h1>
 
-<h3>
+<h3 align="center">
 An information systems engineering's student on Universidad Centroamericana UCA from Nicaragua.
 </h3>
 
-<h2>
+<h2 align="center">
 🌐 Social media :
 </h2>
 
