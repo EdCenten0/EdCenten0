@@ -1,4 +1,4 @@
-<h1>Hi, I'm 👋 Carlos Centeno</h1>
+<h1 align="center">Hi, I'm 👋 Carlos Centeno</h1>
 
 <h3>
 An information systems engineering's student on Universidad Centroamericana UCA from Nicaragua.
