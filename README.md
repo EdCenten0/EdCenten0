@@ -30,4 +30,7 @@ Social media :
 </div>
 
 <h2>Some stats:</h2>
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+</div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EdCenten0)](https://git.io/streak-stats)
