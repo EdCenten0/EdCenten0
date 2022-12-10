@@ -28,3 +28,6 @@ Social media :
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
       </div>
 </div>
+
+<h2>Some stats:</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
