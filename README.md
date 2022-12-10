@@ -44,3 +44,7 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 ### Certificate on:
 
 [Git and Github professional course](https://platzi.com/p/cchavarriacenteno8/curso/1557-git-github/diploma/detalle/ "Git and Github professional course")
+
+[Introduction to Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1631-java-basico/diploma/detalle/ "Introduction to Java SE Course")
+
+<img src="https://github.com/EdCenten0/Images/blob/master/image.png" title="JavaSEPlatzi" **alt="JavaSEPlatzi" width="100" height="100"/>
