@@ -1,3 +1,7 @@
- <div id="header" align="center">
-<iframe src="https://giphy.com/embed/YzV2ULC3LkpmhdGjXX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-fanart-chainsaw-man-YzV2ULC3LkpmhdGjXX">via GIPHY</a></p>
+<div id="header" align="center">
+<img src="">
+</div>
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/YzV2ULC3LkpmhdGjXX/giphy.gif" width="300>
 </div>
