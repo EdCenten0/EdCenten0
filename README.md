@@ -48,6 +48,5 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 [Introduction to Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1631-java-basico/diploma/detalle/ "Introduction to Java SE Course")
 
 <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
-      
+      <img src="https://github.com/EdCenten0/Images/blob/master/image.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
