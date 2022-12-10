@@ -29,6 +29,6 @@ Social media :
       </div>
 </div>
 
-<h2>Some stats about me:</h2>
+##Some stats about me:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
 
