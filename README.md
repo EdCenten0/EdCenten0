@@ -39,3 +39,7 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCenten0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg](https://platzi.com/p/cchavarriacenteno8/curso/1557-git-github/diploma/detalle/)" title="Git"  alt="Git" width="100" height="100"/>&nbsp;
