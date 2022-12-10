@@ -4,11 +4,10 @@
 An information systems engineering's student on Universidad Centroamericana UCA from Nicaragua.
 </h3>
 
+---
 <h2 align="center">
 🌐 Social media :
 </h2>
-
-
 <div id="badges" align="center">
 <a href="https://twitter.com/CarlosSuspect" target="">
 <img src ="https://img.shields.io/twitter/follow/CarlosSuspect?label=Follow%20me%20on%20%40CarlosSuspect&logo=twitter&style=for-the-badge" alt="Twitter Badge" />
