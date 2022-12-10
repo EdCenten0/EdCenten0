@@ -1,11 +1,11 @@
-<h1>Hi, I'm Carlos Centeno</h1>
+<h1>Hi, I'm 👋 Carlos Centeno</h1>
 
 <h3>
 An information systems engineering's student on Universidad Centroamericana UCA from Nicaragua.
 </h3>
 
 <h2>
-Social media :
+🌐 Social media :
 </h2>
 
 
@@ -28,9 +28,9 @@ Social media :
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
       </div>
 </div>
+---
 
-##Some stats about me:
+### 📊 My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdCenten0&theme=onedark)](https://git.io/streak-stats)
 
