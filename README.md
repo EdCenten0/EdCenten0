@@ -42,7 +42,7 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCenten0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Certificate on:
+### Certificated on:
 
 [Git and Github professional course](https://platzi.com/p/cchavarriacenteno8/curso/1557-git-github/diploma/detalle/ "Git and Github professional course")
 
