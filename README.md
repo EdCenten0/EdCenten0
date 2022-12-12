@@ -50,3 +50,5 @@ An information systems engineering's student on Universidad Centroamericana UCA 
  
 [Object Oriented Programming Course: OOP](https://platzi.com/p/cchavarriacenteno8/curso/1474-course/diploma/detalle/ "Object Oriented Programming Course: OOP")
 
+[Introduction to the Terminal and Command Line (BASH) Course](https://platzi.com/p/cchavarriacenteno8/curso/2292-terminal/diploma/detalle/  "Introduction to the Terminal and Command Line (BASH) Course")
+
