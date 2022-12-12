@@ -48,4 +48,5 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 
 [Introduction to Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1631-java-basico/diploma/detalle/ "Introduction to Java SE Course")
  
+[Object Oriented Programming Course: OOP](https://platzi.com/p/cchavarriacenteno8/curso/1474-course/diploma/detalle/ "Object Oriented Programming Course: OOP")
 
