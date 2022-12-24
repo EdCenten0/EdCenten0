@@ -52,3 +52,5 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 
 [Introduction to the Terminal and Command Line (BASH) Course](https://platzi.com/p/cchavarriacenteno8/curso/2292-terminal/diploma/detalle/  "Introduction to the Terminal and Command Line (BASH) Course")
 
+[Object Oriented Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1629-java-oop/diploma/detalle/ "Object Oriented Java SE Course")
+
