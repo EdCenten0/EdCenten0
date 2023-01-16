@@ -29,6 +29,7 @@ An information systems engineering's student on Universidad Centroamericana UCA 
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" **alt="BASH" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
       </div>
 </div>
 
