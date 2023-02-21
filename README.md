@@ -57,3 +57,6 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 [Object Oriented Java SE Course](https://platzi.com/p/cchavarriacenteno8/curso/1629-java-oop/diploma/detalle/ "Object Oriented Java SE Course")
 
 [Kotlin course from scratch](https://platzi.com/p/cchavarriacenteno8/curso/2245-kotlin/diploma/detalle/ "Kotlin course from scratch")
+
+[Database fundamentals with MySQL](https://platzi.com/p/cchavarriacenteno8/curso/1566-bd/diploma/detalle/ "Database fundamentals with MySQL")
+
