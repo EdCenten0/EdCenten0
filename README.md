@@ -60,3 +60,5 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 
 [Database fundamentals with MySQL](https://platzi.com/p/cchavarriacenteno8/curso/1566-bd/diploma/detalle/ "Database fundamentals with MySQL")
 
+[Basic Frontend Development with HTML and CSS](https://platzi.com/p/cchavarriacenteno8/curso/2477-frontend-developer-practico/diploma/detalle/ "Basic Frontend Development with HTML and CSS")
+
