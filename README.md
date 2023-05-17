@@ -62,7 +62,7 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 
 [Basic Frontend Development with HTML and CSS](https://platzi.com/p/cchavarriacenteno8/curso/2477-frontend-developer-practico/diploma/detalle/ "Basic Frontend Development with HTML and CSS")
 
-[Functional JavaScript](https://platzi.com/p/cchavarriacenteno8/curso/2477-frontend-developer-practico/diploma/detalle/ "Functional JavaScript")
+[Functional JavaScript](https://platzi.com/p/cchavarriacenteno8/curso/3271-javascript-practico/diploma/detalle/ "Functional JavaScript")
 
 
 
