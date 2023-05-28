@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" align="center"/>
+</div>  
+  
 <h1 align="center">Hi, I'm 👋 Carlos Chavarría Centeno</h1>
 
 <h3 align="center">
