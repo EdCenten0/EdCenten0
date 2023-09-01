@@ -1,55 +1,93 @@
+<h1 align="center">Hi 👋, I'm Carlos Chavarria Centeno</h1>
+<h3 align="center">Future programmer and engineer (I hope)🌟.</h3>
 <div align="center">
 <img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" align="center"/>
 </div>  
-  
-<h1 align="center">Hi, I'm 👋 Carlos Chavarría Centeno</h1>
 
-<h3 align="center">
-An information systems engineering's student on Universidad Centroamericana UCA from Nicaragua.
-</h3>
+<br>
 
-<h4 align="center">📫Contact: cchavarriacenteno8@gmail.com</h4> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=EdCenten0&label=Profile%20views&color=0e75b6&style=flat"
+    alt="EdCenten0" /> 
+  </p>
 
----
-<h2 align="center">🌐 Social media :</h2>
-<div align="center">
-<a href="https://twitter.com/CarlosSuspect" target="">
-<img src ="https://img.shields.io/twitter/follow/CarlosSuspect?label=Follow%20me%20on%20%40CarlosSuspect&logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-</a>
-</div>
-<div align="left">
-    
---------------------------------------------------------------------------------------------------
-
-    
-<h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" **alt="BASH" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-      </div>
-</div>
-
----------------------------
-
-### 📊 My Stats :
+<br>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdCenten0&theme=onedark)](https://git.io/streak-stats)
+- 🌱 I’m currently learning Web Development and other programming languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&theme=radical)
+- 📫 How to reach me **cchavarriacenteno8@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCenten0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Information's Systems Engineer student (Half-second year)
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-centeno-2a4669186" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Carlos Centeno" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/centeno_cocinado" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Carlos Centeno" height="30" width="40" /></a>
+ <a href="https://twitter.com/CarlosSuspect" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Carlos Centeno" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> <a href="https://visualstudio.microsoft.com/es/" target="_blank"
+    rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank"
+    rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+      alt="c" width="40" height="40" /> </a><a href="https://www.gnu.org/software/bash/" target="_blank"
+    rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+      alt="c" width="40" height="40" /></a>   <a href="https://git-scm.com/" target="_blank"
+    rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
+      alt="c" width="40" height="40" /></a> </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=EdCenten0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdCenten0&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ### Certificated on:
@@ -71,6 +109,4 @@ An information systems engineering's student on Universidad Centroamericana UCA 
 [Basic Frontend Development with HTML and CSS](https://platzi.com/p/cchavarriacenteno8/curso/2477-frontend-developer-practico/diploma/detalle/ "Basic Frontend Development with HTML and CSS")
 
 [Functional JavaScript](https://platzi.com/p/cchavarriacenteno8/curso/3271-javascript-practico/diploma/detalle/ "Functional JavaScript")
-
-
 
