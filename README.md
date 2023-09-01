@@ -71,23 +71,13 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=EdCenten0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+[![EdCenten0's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EdCenten0&theme=tokyonight)](https://git.io/praveenscience)
 
-<br>
+| ![EdCenten0's github stats](https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&theme=tokyonight) | ![EdCenten0 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdCenten0&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCenten0&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdCenten0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdCenten0&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ### Certificated on:
