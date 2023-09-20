@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Chavarria Centeno</h1>
 <h3 align="center">Future programmer and engineer (I hope)🌟.</h3>
 <div align="center">
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" align="center"/>
+
 </div>  
 
 <br>
@@ -18,6 +18,8 @@
 - 📫 How to reach me **cchavarriacenteno8@gmail.com**
 
 - ⚡ Information's Systems Engineer student (Half-second year)
+
+- 🏫 My courses on Platzi: [Platzi's profile](https://platzi.com/p/cchavarriacenteno8/ "Platzi's profile")
 
 <br>
 
@@ -99,4 +101,10 @@
 [Basic Frontend Development with HTML and CSS](https://platzi.com/p/cchavarriacenteno8/curso/2477-frontend-developer-practico/diploma/detalle/ "Basic Frontend Development with HTML and CSS")
 
 [Functional JavaScript](https://platzi.com/p/cchavarriacenteno8/curso/3271-javascript-practico/diploma/detalle/ "Functional JavaScript")
+
+[Course on REST API with JavaScript: Performance and Usability]( https://platzi.com/p/cchavarriacenteno8/curso/2942-api-profesional/diploma/detalle/ "Course on REST API with JavaScript: Performance and Usability")
+
+[Foundations of Sass Course](https://platzi.com/p/cchavarriacenteno8/curso/6867-sass/diploma/detalle/ "Foundations of Sass Course")
+
+[React.js Course](https://platzi.com/p/cchavarriacenteno8/curso/7395-react/diploma/detalle/ "React.js Course")
 
