@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Chavarria Centeno</h1>
-<h3 align="center"> Programmer and engineer (I hope)🌟.</h3>
+<h3 align="center"> Computer Science Student.</h3>
 <div align="center">
 
 </div>  
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cchavarriacenteno8@gmail.com**
 
-- ⚡ Information's Systems Engineer student (Half-second year)
+- ⚡ Computer Science Student 
 
 - 🏫 My courses on Platzi: [Platzi's profile](https://platzi.com/p/cchavarriacenteno8/ "Platzi's profile")
 
