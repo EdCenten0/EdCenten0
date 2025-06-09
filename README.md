@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Chavarria Centeno</h1>
-<h3 align="center"> Computer Science Student.</h3>
+<h3 align="center"> Computer Science BSc Student.</h3>
 <div align="center">
 
 </div>  
